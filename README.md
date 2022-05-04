@@ -1,9 +1,9 @@
 # python_GUI - Tkinter 
 
 Projects List : -
-Calculator with Images Gui Application
-Instagram User detail Gui Application
-Notepad Gui Application
-Calender Gui Application
-Restruant Management System Gui Application
-Tic Tac Toe
+1) Calculator with Images Gui Application
+2) Instagram User detail Gui Application
+3) Notepad Gui Application
+4) Restruant Management System Gui Application
+5) Calender Gui Application
+6) Tic Tac Toe
