@@ -9,7 +9,7 @@ Get the bill of the service charged, paid tax, and atlast get the total bills in
 In this project a small calculator where you can calculate simple operations.
 In this project you can save the bill receipt , send the bill on your mobile phone.
 
-=======================================================
+
 
 ================== Features of the project ==================
 
@@ -22,7 +22,6 @@ In this project you can save the bill receipt , send the bill on your mobile pho
 7. Great Validation on this application.
 8. Exit Features in the application.
 
-======================================================
 
 ===============        SMS Feature   ==========================
 
@@ -32,4 +31,4 @@ copy the api and paste in  api variable in a  send() function code..
 
 =====================================================
 
---------------------------------------------------------------------------------------------------------------
+
